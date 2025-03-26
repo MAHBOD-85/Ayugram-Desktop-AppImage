@@ -12,7 +12,7 @@ Ayugram is a secure, lightweight, and privacy-focused messaging application desi
 1. **Download the AppImage** from here.  
 2. **Make it executable**:  
    ```bash
-   chmod +x Ayugram.AppImage
+   chmod +x Ayugram_Desktop-x86_64.AppImage
 
 ## Disclaimer
 
