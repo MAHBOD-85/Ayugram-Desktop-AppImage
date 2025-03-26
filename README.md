@@ -13,7 +13,7 @@ Ayugram is a secure, lightweight, and privacy-focused messaging application desi
 2. **Make it executable**:  
    ```bash
    chmod +x Ayugram_Desktop-x86_64.AppImage
-# Additional Note
+### Additional Note
 pipewire is a dependency which is not shipped in this appimage
 
 ## Disclaimer
